@@ -1,1 +1,1 @@
-# testdgx
+# testgdx lib
