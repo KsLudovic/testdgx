@@ -1,2 +1,1 @@
-# small project using circles and touchscreen 
-libgdx and android studio
+just a test to understand libgdx
